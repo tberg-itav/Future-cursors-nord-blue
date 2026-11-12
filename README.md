@@ -31,6 +31,8 @@ This will generate the pixmaps and appropriate aliases.
 The freshly compiled cursor theme will be located in `dist/`
 
 ## Preview
-Color Hex Code: #5e81ac
+Color Hex Code: #5E81AC
+
 ![Future](future-nord-blue-l.png)
+
 ![Future](future-nord-blue-d.png)
