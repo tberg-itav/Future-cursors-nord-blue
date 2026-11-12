@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="32"
    height="32"
    viewBox="0 0 32 32.000001"
    id="svg2"
    version="1.1"
-   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
-   sodipodi:docname="wait-11.svg">
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   sodipodi:docname="wait-11.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs4">
     <linearGradient
@@ -127,18 +127,21 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="15.839192"
-     inkscape:cx="23.211384"
-     inkscape:cy="16.652494"
+     inkscape:cx="23.233508"
+     inkscape:cy="16.63595"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="px"
      inkscape:document-rotation="0"
      inkscape:window-width="1920"
-     inkscape:window-height="932"
+     inkscape:window-height="1011"
      inkscape:window-x="0"
-     inkscape:window-y="36"
-     inkscape:window-maximized="1" />
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -147,7 +150,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -159,25 +162,25 @@
     <g
        id="g1885"
        transform="matrix(0.33828257,0,0,0.33828257,-12.422677,677.70102)"
-       style="fill:#ffba00;fill-opacity:1">
+       style="fill:#5e81ac;fill-opacity:1">
       <path
          id="path1875"
-         style="opacity:1;fill:#ffba00;fill-opacity:1;stroke-width:2.98558"
+         style="opacity:1;fill:#5e81ac;fill-opacity:1;stroke-width:2.98558"
          d="m 56.827754,1030.3884 12.999981,-8.5 13.000017,8.5 -13.000017,8.5 z"
          sodipodi:nodetypes="ccccc" />
       <g
          id="g1881"
          transform="translate(24.571723)"
-         style="fill:#ffba00;fill-opacity:1">
+         style="fill:#5e81ac;fill-opacity:1">
         <rect
-           style="fill:#ffba00;fill-opacity:1;stroke-width:3.1048"
+           style="fill:#5e81ac;fill-opacity:1;stroke-width:3.1048"
            id="rect1877"
            width="13"
            height="13"
            x="32.256031"
            y="1030.3884" />
         <rect
-           style="fill:#ffba00;fill-opacity:1;stroke-width:3.1048"
+           style="fill:#5e81ac;fill-opacity:1;stroke-width:3.1048"
            id="rect1879"
            width="13"
            height="13"
@@ -186,32 +189,32 @@
       </g>
       <path
          id="path1883"
-         style="opacity:1;fill:#ffba00;fill-opacity:1;stroke-width:2.98558"
+         style="opacity:1;fill:#5e81ac;fill-opacity:1;stroke-width:2.98558"
          d="m 56.827754,1043.3884 12.999981,8.5 13.000017,-8.5 -13.000017,-8.5 z"
          sodipodi:nodetypes="ccccc" />
     </g>
     <g
        id="g1897"
        transform="matrix(0.33828257,0,0,0.33828257,-2.82035,677.70102)"
-       style="fill:#ffba00;fill-opacity:1">
+       style="fill:#5e81ac;fill-opacity:1">
       <path
          id="path1887"
-         style="opacity:1;fill:#ffba00;fill-opacity:1;stroke-width:2.98558"
+         style="opacity:1;fill:#5e81ac;fill-opacity:1;stroke-width:2.98558"
          d="m 56.827754,1030.3884 12.999981,-8.5 13.000017,8.5 -13.000017,8.5 z"
          sodipodi:nodetypes="ccccc" />
       <g
          id="g1893"
          transform="translate(24.571723)"
-         style="fill:#ffba00;fill-opacity:1">
+         style="fill:#5e81ac;fill-opacity:1">
         <rect
-           style="fill:#ffba00;fill-opacity:1;stroke-width:3.1048"
+           style="fill:#5e81ac;fill-opacity:1;stroke-width:3.1048"
            id="rect1889"
            width="13"
            height="13"
            x="32.256031"
            y="1030.3884" />
         <rect
-           style="fill:#ffba00;fill-opacity:1;stroke-width:3.1048"
+           style="fill:#5e81ac;fill-opacity:1;stroke-width:3.1048"
            id="rect1891"
            width="13"
            height="13"
@@ -220,32 +223,32 @@
       </g>
       <path
          id="path1895"
-         style="opacity:1;fill:#ffba00;fill-opacity:1;stroke-width:2.98558"
+         style="opacity:1;fill:#5e81ac;fill-opacity:1;stroke-width:2.98558"
          d="m 56.827754,1043.3884 12.999981,8.5 13.000017,-8.5 -13.000017,-8.5 z"
          sodipodi:nodetypes="ccccc" />
     </g>
     <g
        id="g1921"
        transform="matrix(0.33828257,0,0,0.33828257,-17.223839,685.60092)"
-       style="fill:#ffba00;fill-opacity:1">
+       style="fill:#5e81ac;fill-opacity:1">
       <path
          id="path1911"
-         style="opacity:1;fill:#ffba00;fill-opacity:1;stroke-width:2.98558"
+         style="opacity:1;fill:#5e81ac;fill-opacity:1;stroke-width:2.98558"
          d="m 56.827754,1030.3884 12.999981,-8.5 13.000017,8.5 -13.000017,8.5 z"
          sodipodi:nodetypes="ccccc" />
       <g
          id="g1917"
          transform="translate(24.571723)"
-         style="fill:#ffba00;fill-opacity:1">
+         style="fill:#5e81ac;fill-opacity:1">
         <rect
-           style="fill:#ffba00;fill-opacity:1;stroke-width:3.1048"
+           style="fill:#5e81ac;fill-opacity:1;stroke-width:3.1048"
            id="rect1913"
            width="13"
            height="13"
            x="32.256031"
            y="1030.3884" />
         <rect
-           style="fill:#ffba00;fill-opacity:1;stroke-width:3.1048"
+           style="fill:#5e81ac;fill-opacity:1;stroke-width:3.1048"
            id="rect1915"
            width="13"
            height="13"
@@ -254,32 +257,32 @@
       </g>
       <path
          id="path1919"
-         style="opacity:1;fill:#ffba00;fill-opacity:1;stroke-width:2.98558"
+         style="opacity:1;fill:#5e81ac;fill-opacity:1;stroke-width:2.98558"
          d="m 56.827754,1043.3884 12.999981,8.5 13.000017,-8.5 -13.000017,-8.5 z"
          sodipodi:nodetypes="ccccc" />
     </g>
     <g
        id="g1933"
        transform="matrix(0.33828257,0,0,0.33828257,1.980814,685.60092)"
-       style="fill:#ffba00;fill-opacity:1">
+       style="fill:#5e81ac;fill-opacity:1">
       <path
          id="path1923"
-         style="opacity:1;fill:#ffba00;fill-opacity:1;stroke-width:2.98558"
+         style="opacity:1;fill:#5e81ac;fill-opacity:1;stroke-width:2.98558"
          d="m 56.827754,1030.3884 12.999981,-8.5 13.000017,8.5 -13.000017,8.5 z"
          sodipodi:nodetypes="ccccc" />
       <g
          id="g1929"
          transform="translate(24.571723)"
-         style="fill:#ffba00;fill-opacity:1">
+         style="fill:#5e81ac;fill-opacity:1">
         <rect
-           style="fill:#ffba00;fill-opacity:1;stroke-width:3.1048"
+           style="fill:#5e81ac;fill-opacity:1;stroke-width:3.1048"
            id="rect1925"
            width="13"
            height="13"
            x="32.256031"
            y="1030.3884" />
         <rect
-           style="fill:#ffba00;fill-opacity:1;stroke-width:3.1048"
+           style="fill:#5e81ac;fill-opacity:1;stroke-width:3.1048"
            id="rect1927"
            width="13"
            height="13"
@@ -288,32 +291,32 @@
       </g>
       <path
          id="path1931"
-         style="opacity:1;fill:#ffba00;fill-opacity:1;stroke-width:2.98558"
+         style="opacity:1;fill:#5e81ac;fill-opacity:1;stroke-width:2.98558"
          d="m 56.827754,1043.3884 12.999981,8.5 13.000017,-8.5 -13.000017,-8.5 z"
          sodipodi:nodetypes="ccccc" />
     </g>
     <g
        id="g1945"
        transform="matrix(0.33828257,0,0,0.33828257,-12.422677,693.50083)"
-       style="fill:#ffba00;fill-opacity:1">
+       style="fill:#5e81ac;fill-opacity:1">
       <path
          id="path1935"
-         style="opacity:1;fill:#ffba00;fill-opacity:1;stroke-width:2.98558"
+         style="opacity:1;fill:#5e81ac;fill-opacity:1;stroke-width:2.98558"
          d="m 56.827754,1030.3884 12.999981,-8.5 13.000017,8.5 -13.000017,8.5 z"
          sodipodi:nodetypes="ccccc" />
       <g
          id="g1941"
          transform="translate(24.571723)"
-         style="fill:#ffba00;fill-opacity:1">
+         style="fill:#5e81ac;fill-opacity:1">
         <rect
-           style="fill:#ffba00;fill-opacity:1;stroke-width:3.1048"
+           style="fill:#5e81ac;fill-opacity:1;stroke-width:3.1048"
            id="rect1937"
            width="13"
            height="13"
            x="32.256031"
            y="1030.3884" />
         <rect
-           style="fill:#ffba00;fill-opacity:1;stroke-width:3.1048"
+           style="fill:#5e81ac;fill-opacity:1;stroke-width:3.1048"
            id="rect1939"
            width="13"
            height="13"
@@ -322,32 +325,32 @@
       </g>
       <path
          id="path1943"
-         style="opacity:1;fill:#ffba00;fill-opacity:1;stroke-width:2.98558"
+         style="opacity:1;fill:#5e81ac;fill-opacity:1;stroke-width:2.98558"
          d="m 56.827754,1043.3884 12.999981,8.5 13.000017,-8.5 -13.000017,-8.5 z"
          sodipodi:nodetypes="ccccc" />
     </g>
     <g
        id="g1957"
        transform="matrix(0.33828257,0,0,0.33828257,-2.82035,693.50083)"
-       style="fill:#ffba00;fill-opacity:1">
+       style="fill:#5e81ac;fill-opacity:1">
       <path
          id="path1947"
-         style="opacity:1;fill:#ffba00;fill-opacity:1;stroke-width:2.98558"
+         style="opacity:1;fill:#5e81ac;fill-opacity:1;stroke-width:2.98558"
          d="m 56.827754,1030.3884 12.999981,-8.5 13.000017,8.5 -13.000017,8.5 z"
          sodipodi:nodetypes="ccccc" />
       <g
          id="g1953"
          transform="translate(24.571723)"
-         style="fill:#ffba00;fill-opacity:1">
+         style="fill:#5e81ac;fill-opacity:1">
         <rect
-           style="fill:#ffba00;fill-opacity:1;stroke-width:3.1048"
+           style="fill:#5e81ac;fill-opacity:1;stroke-width:3.1048"
            id="rect1949"
            width="13"
            height="13"
            x="32.256031"
            y="1030.3884" />
         <rect
-           style="fill:#ffba00;fill-opacity:1;stroke-width:3.1048"
+           style="fill:#5e81ac;fill-opacity:1;stroke-width:3.1048"
            id="rect1951"
            width="13"
            height="13"
@@ -356,7 +359,7 @@
       </g>
       <path
          id="path1955"
-         style="opacity:1;fill:#ffba00;fill-opacity:1;stroke-width:2.98558"
+         style="opacity:1;fill:#5e81ac;fill-opacity:1;stroke-width:2.98558"
          d="m 56.827754,1043.3884 12.999981,8.5 13.000017,-8.5 -13.000017,-8.5 z"
          sodipodi:nodetypes="ccccc" />
     </g>
