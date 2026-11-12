@@ -10,11 +10,11 @@ else
   DEST_DIR="$HOME/.local/share/icons"
 fi
 
-if [ -d "$DEST_DIR/Future-cursors" ]; then
-  rm -r "$DEST_DIR/Future-cursors"
+if [ -d "$DEST_DIR/Future-cursors-Nord-blue" ]; then
+  rm -r "$DEST_DIR/Future-cursors-Nord-blue"
 fi
 
-cp -pr dist $DEST_DIR/Future-cursors
+cp -pr dist $DEST_DIR/Future-cursors-Nord-blue
 
 echo "Finished..."
 

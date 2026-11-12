@@ -1,4 +1,4 @@
-# Future cursors
+# Future cursors (Nord Blue Edition)
 This is an x-cursor theme inspired by macOS and
 based on [capitaine-cursors](https://github.com/keeferrourke/capitaine-cursors).
 
@@ -31,5 +31,6 @@ This will generate the pixmaps and appropriate aliases.
 The freshly compiled cursor theme will be located in `dist/`
 
 ## Preview
-![Future](preview.png)
-![Future](preview-1.png)
+Color Hex Code: #5e81ac
+![Future](future-nord-blue-l.png)
+![Future](future-nord-blue-d.png)
